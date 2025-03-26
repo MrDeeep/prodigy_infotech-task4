@@ -1,6 +1,6 @@
 # Prodigy Infotech Task4
 <br>
-<img src="https://github.com/Ksheeraja23/Prodigy_Infotech_Task4/blob/main/ds4.png">
+<img src="https://github.com/MrDeeep/prodigy_infotech-task4/blob/main/ds4.png">
 
 ## Overview
 Hii! I'm Joydip Ram and this repository contains the code and documentation for my data science internship project at Prodigy Infotech, focusing on Twitter sentiment analysis. The project aims to analyze sentiment patterns in Twitter data to gain insights into public opinion and attitudes towards various topics, brands, and events.
